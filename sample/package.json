@@ -22,6 +22,11 @@
     "mongoose":"*",
     "nodemailer":"*"
   },
+
+  "engines":{
+    "node": "0.10.25"
+  },
+
   "description": "sample bookings site",
   "main": "app.js",
   "devDependencies": {},
